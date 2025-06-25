@@ -3,4 +3,4 @@
 .rasa
 venv-rasa
 docs
-data/temp
+data/temp/
